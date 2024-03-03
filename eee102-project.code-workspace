@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.defaultInterpreterPath": "/Users/mehmet/miniforge3/envs/data/bin/python",
+      	"python.terminal.activateEnvironment": true,
+      	"python.terminal.activateEnvInCurrentTerminal": true,
+	}
+}
