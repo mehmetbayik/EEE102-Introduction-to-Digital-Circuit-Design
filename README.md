@@ -2,7 +2,7 @@
 
 Project implementations done for EEE102 course, Bilkent University.
 
-VHDL is used for the project.
+VHDL is used for the labs and project.
 
 ## Coverage of the repository
 
